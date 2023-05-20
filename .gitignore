@@ -1,0 +1,10 @@
+
+
+# Ignore all files in a directory
+my_directory/
+
+# Ignore all files with a specific name
+myfile.js
+
+# Ignore a specific file path
+src/config.js
